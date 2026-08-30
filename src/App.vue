@@ -1,5 +1,6 @@
 <script setup>
 import Hero from './components/Hero.vue'
+import Menu from './components/Menu.vue'
 </script>
 
 <template>
@@ -29,6 +30,8 @@ import Hero from './components/Hero.vue'
         alt="サロンのコンセプト"
       />
     </div>
+
   </div>
 </section>
+  <Menu />
 </template>
