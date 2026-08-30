@@ -1,6 +1,8 @@
 <script setup>
 import Hero from './components/Hero.vue'
 import Menu from './components/Menu.vue'
+import About from './components/About.vue'
+import Staff from './components/Staff.vue'
 </script>
 
 <template>
@@ -34,4 +36,6 @@ import Menu from './components/Menu.vue'
   </div>
 </section>
   <Menu />
+  <About />
+  <Staff />
 </template>
