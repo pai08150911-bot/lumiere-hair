@@ -1,8 +1,8 @@
 <script setup>
 import Hero from './components/Hero.vue'
 import Menu from './components/Menu.vue'
-import About from './components/About.vue'
 import Staff from './components/Staff.vue'
+import Access from './components/Access.vue'
 </script>
 
 <template>
@@ -36,6 +36,6 @@ import Staff from './components/Staff.vue'
   </div>
 </section>
   <Menu />
-  <About />
   <Staff />
+  <Access />
 </template>
