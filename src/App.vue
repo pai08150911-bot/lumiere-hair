@@ -4,6 +4,7 @@ import Menu from './components/Menu.vue'
 import Staff from './components/Staff.vue'
 import Access from './components/Access.vue'
 import Reservation from './components/Reservation.vue'
+import Footer from './components/Footer.vue'
 </script>
 
 <template>
@@ -40,4 +41,5 @@ import Reservation from './components/Reservation.vue'
   <Staff />
   <Access />
   <Reservation />
+  <Footer />
 </template>
