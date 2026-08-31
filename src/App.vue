@@ -3,6 +3,7 @@ import Hero from './components/Hero.vue'
 import Menu from './components/Menu.vue'
 import Staff from './components/Staff.vue'
 import Access from './components/Access.vue'
+import Reservation from './components/Reservation.vue'
 </script>
 
 <template>
@@ -38,4 +39,5 @@ import Access from './components/Access.vue'
   <Menu />
   <Staff />
   <Access />
+  <Reservation />
 </template>
