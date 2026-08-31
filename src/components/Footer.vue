@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-stone-950 px-6 py-12 text-white md:px-8">
+    <section id="footer" class="bg-stone-950 px-6 py-12 text-white md:px-8">
       <div class="mx-auto flex max-w-6xl flex-col gap-8 md:flex-row md:items-center md:justify-between">
     
         <div>

@@ -1,2 +1,6 @@
 @import "tailwindcss";
 /* Tailwind CSSをこのCSSファイルに読み込む */
+
+html {
+  scroll-behavior: smooth;
+}

@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-stone-100 px-6 py-24 text-center text-stone-950">
+    <section id="reservation" class="bg-stone-100 px-6 py-24 text-center text-stone-950">
       <div class="mx-auto max-w-3xl">
     
         <p class="text-sm tracking-widest text-stone-500">
