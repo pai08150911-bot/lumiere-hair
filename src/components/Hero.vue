@@ -1,5 +1,5 @@
 <template>
-  <section class="min-h-screen bg-stone-950 text-white">
+  <section class="min-h-screen bg-stone-950 text-white pt-24 md:pt-1">
     <div class="mx-auto flex min-h-screen max-w-7xl flex-col items-center justify-center gap-12 px-6 md:flex-row md:px-8 ">
       <div>
         <p>Hair & Beauty</p>

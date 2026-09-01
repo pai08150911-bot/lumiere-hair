@@ -12,8 +12,8 @@
           </h2>
         </div>
     
-        <div class="mt-12 grid gap-8 md:grid-cols-2">
-    
+
+        <div class="mt-12 grid gap-4 grid-row md:grid-cols-2 md:gap-12">
           <div>
             <img
               class="h-[500px] w-full rounded-2xl object-cover"
@@ -30,7 +30,7 @@
             </p>
     
             <p class="mt-4 leading-relaxed text-stone-600">
-              一人ひとりの髪質やライフスタイルに合わせて、
+              一人ひとりの髪質やライフスタイルに合わせて、<br>
               自分らしいスタイルをご提案します。
             </p>
           </div>
